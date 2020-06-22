@@ -1,2 +1,2 @@
-# TCP
-TCP client/server
+# TCP client/server
+sending files via tcp
